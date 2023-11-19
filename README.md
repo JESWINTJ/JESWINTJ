@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JESWINTJ
+- 👀 I’m interested in C and Java
+- 🌱 I’m currently learning  C and Java
